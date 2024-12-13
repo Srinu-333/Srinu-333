@@ -16,15 +16,14 @@ Here are some ideas to get you started:
 -->
 ## 🎥 Welcome to **Tippaluri Srinu [Srinu-333]**'s Movie-Themed GitHub Reel! 🍿
 
-![Cinema GIF](https://media.giphy.com/media/3o6ZsY1A8hTV9fz8NO/giphy.gif)
 
-Hi there, fellow coder and movie enthusiast! 🎬 I’m **Srinivasu**, a passionate developer bringing tech ideas to life. Here’s a sneak peek at my projects and adventures in the tech world, presented with a movie twist. 🌟
+Hi there, fellow coder and movie enthusiast! 🎬 I’m **Tippaluri Srinu**, a passionate developer bringing tech ideas to life. Here’s a sneak peek at my projects and adventures in the tech world, presented with a movie twist. 🌟
 
 ---
 
 ### 🌟 **About Me**
 - 🔭 Currently working on:
-  - `Bio-Responsive AI Wildlife and Fire Sentinel System`
+  - `Bio-Responsive AI Wildlife and Fire Sentinel System`s
   
 - 🌱 Exploring IoT, AI, and ML technologies for impactful solutions.
 - 🎯 Interested in **wildlife conservation**, **environmental tech**, and **image processing**.
@@ -74,6 +73,6 @@ Hi there, fellow coder and movie enthusiast! 🎬 I’m **Srinivasu**, a passion
 
 > "Coding is like directing a movie. Each line is a frame, and the final product is your masterpiece." 🎥
 
-![The End GIF](https://media.giphy.com/media/3o6Mbbs879ozZ9Yicw/giphy.gif)
+
 
 
