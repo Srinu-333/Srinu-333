@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🎥 Welcome to **Srinivasu [Srinu-333]**'s Movie-Themed GitHub Reel! 🍿
+## 🎥 Welcome to **Tippaluri Srinu [Srinu-333]**'s Movie-Themed GitHub Reel! 🍿
 
 ![Cinema GIF](https://media.giphy.com/media/3o6ZsY1A8hTV9fz8NO/giphy.gif)
 
