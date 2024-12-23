@@ -63,7 +63,6 @@ Hi there, fellow coder and movie enthusiast! 🎬 I’m **Tippaluri Srinu**, a p
 ---
 
 ### 🎟️ **Stay Connected**
-![Social Media GIF](https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif)
 - **GitHub:** [Srinu-333](https://github.com/Srinu-333)
 - **Portfolio:** [View Portfolio](https://yourportfolio.com)
 - **LinkedIn:** [Connect Here](https://linkedin.com/in/yourprofile)
