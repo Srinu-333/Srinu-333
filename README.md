@@ -30,7 +30,6 @@ Hi there, fellow coder and movie enthusiast! 🎬 I’m **Tippaluri Srinu**, a p
 - 💬 Ask me about:
   - Dijkstra's algorithm
   - AIoT-based smart pollution monitoring
-  - Campus Placement Recruitment Systems
 - 📫 Reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - 🎥 Fun Fact: If I could live in a movie, it would be *Interstellar*. 🌌
 
@@ -44,7 +43,7 @@ Hi there, fellow coder and movie enthusiast! 🎬 I’m **Tippaluri Srinu**, a p
 - **Description:** Integrates IoT and AI to monitor wildlife and detect forest fires.
 - **Tech Used:** Raspberry Pi, IoT, Machine Learning
 - **Highlights:** Displays real-time data on a webpage hosted on a laptop.
-![Wildlife Monitoring GIF](https://media.giphy.com/media/26FL1soZ3STRDSLGU/giphy.gif)
+![Wildlife Monitoring GIF]
 
 ---
 
@@ -53,7 +52,7 @@ Hi there, fellow coder and movie enthusiast! 🎬 I’m **Tippaluri Srinu**, a p
 - **Description:** Monitors air quality with AI and IoT, using ThingSpeak for cloud integration.
 - **Tech Used:** Arduino, Raspberry Pi, Sensors
 - **Highlights:** Real-time environmental insights.
-![Pollution Monitoring GIF](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+![Pollution Monitoring GIF]
 
 ---
 
